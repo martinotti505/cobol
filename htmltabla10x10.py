@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Presentación</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Presentación</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Columna 1</th>
+                <th>Columna 2</th>
+                <th>Columna 3</th>
+                <th>Columna 4</th>
+                <th>Columna 5</th>
+                <th>Columna 6</th>
+                <th>Columna 7</th>
+                <th>Columna 8</th>
+                <th>Columna 9</th>
+                <th>Columna 10</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Generar 5 filas -->
+            <tr>
+                <td>1</td>
+                <td>Dato 1</td>
+                <td>Dato 2</td>
+                <td>Dato 3</td>
+                <td>Dato 4</td>
+                <td>Dato 5</td>
+                <td>Dato 6</td>
+                <td>Dato 7</td>
+                <td>Dato 8</td>
+                <td>Dato 9</td>
+                <td>Dato 10</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Dato 1</td>
+                <td>Dato 2</td>
+                <td>Dato 3</td>
+                <td>Dato 4</td>
+                <td>Dato 5</td>
+                <td>Dato 6</td>
+                <td>Dato 7</td>
+                <td>Dato 8</td>
+                <td>Dato 9</td>
+                <td>Dato 10</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Dato 1</td>
+                <td>Dato 2</td>
+                <td>Dato 3</td>
+                <td>Dato 4</td>
+                <td>Dato 5</td>
+                <td>Dato 6</td>
+                <td>Dato 7</td>
+                <td>Dato 8</td>
+                <td>Dato 9</td>
+                <td>Dato 10</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Dato 1</td>
+                <td>Dato 2</td>
+                <td>Dato 3</td>
+                <td>Dato 4</td>
+                <td>Dato 5</td>
+                <td>Dato 6</td>
+                <td>Dato 7</td>
+                <td>Dato 8</td>
+                <td>Dato 9</td>
+                <td>Dato 10</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Dato 1</td>
+                <td>Dato 2</td>
+                <td>Dato 3</td>
+                <td>Dato 4</td>
+                <td>Dato 5</td>
+                <td>Dato 6</td>
+                <td>Dato 7</td>
+                <td>Dato 8</td>
+                <td>Dato 9</td>
+                <td>Dato 10</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
