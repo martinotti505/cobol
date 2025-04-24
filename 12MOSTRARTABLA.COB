@@ -5,7 +5,7 @@
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. CAPITULO12.
+       PROGRAM-ID. CAPITULO 12.
        AUTHOR.CLAUDIO-MARTINOTTI.
        INSTALLATION.
        DATE-WRITTEN.27/02/2002
